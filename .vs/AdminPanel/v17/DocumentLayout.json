@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Migrations\\20231220074544_ChangeToExpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdminPanel\\Migrations\\20231220074544_ChangeToExpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\views\\account\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\account\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\models\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\models\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|c:\\users\\abbos\\source\\repos\\adminpanel\\adminpanel\\migrations\\20231218162433_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B94A41-B4D3-452C-A7B8-E6A6EBF9BD1D}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\migrations\\20231218162433_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20231220074544_ChangeToExpress.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Migrations\\20231220074544_ChangeToExpress.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Migrations\\20231220074544_ChangeToExpress.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Migrations\\20231220074544_ChangeToExpress.cs",
+              "RelativeToolTip": "AdminPanel\\Migrations\\20231220074544_ChangeToExpress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T07:45:44.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Models\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Models\\ViewModel.cs",
+              "RelativeToolTip": "AdminPanel\\Models\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T20:20:52.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Account\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\Account\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Account\\GetAll.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\Account\\GetAll.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAwE8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-18T20:20:36.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-18T19:01:23.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-18T18:56:11.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-18T18:30:51.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AdminPanel\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T18:26:07.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-18T16:38:37.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-18T16:37:44.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AdminPanel\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAwJQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T16:36:16.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Models\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Models\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Models\\RegisterVM.cs",
+              "RelativeToolTip": "AdminPanel\\Models\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T16:32:06.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Models\\LoginVM.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Models\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Models\\LoginVM.cs",
+              "RelativeToolTip": "AdminPanel\\Models\\LoginVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T16:28:10.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20231218162433_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Migrations\\20231218162433_Initial.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Migrations\\20231218162433_Initial.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Migrations\\20231218162433_Initial.cs",
+              "RelativeToolTip": "AdminPanel\\Migrations\\20231218162433_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T16:24:33.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\appsettings.json",
+              "RelativeDocumentMoniker": "AdminPanel\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\appsettings.json",
+              "RelativeToolTip": "AdminPanel\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-18T16:15:31.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Enums\\Status.cs",
+              "RelativeToolTip": "AdminPanel\\Enums\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T16:12:08.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Models\\User.cs",
+              "RelativeToolTip": "AdminPanel\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T16:09:23.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AdminPanel\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T11:44:52.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Program.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Program.cs",
+              "ToolTip": "C:\\Users\\Abbos\\source\\repos\\AdminPanel\\AdminPanel\\Program.cs",
+              "RelativeToolTip": "AdminPanel\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T11:41:29.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

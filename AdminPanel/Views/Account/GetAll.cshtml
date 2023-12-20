@@ -1,0 +1,129 @@
+﻿@* @model List<ViewModel>
+
+@{
+    ViewData["Title"] = "Management";
+}
+
+
+@using (Html.BeginForm())
+{
+    <div>
+        <button type="submit" class="btn btn-dark" formaction="@Url.Action("Block", "Account")">
+            Block <i class="fa fa-lock" style="font-size: 16px; margin-left: 5px;"></i>
+        </button>
+        <button type="submit" class="btn btn-secondary" formaction="@Url.Action("Unblock", "Account")">
+            <i class="fa fa-unlock" style="font-size: 16px; margin-left: 0px;"></i>
+        </button>
+        <button type="submit" class="btn btn-danger" formaction="@Url.Action("Delete", "")">
+            <i class="fa fa-trash-o" style="font-size: 16px; margin-left: 0px;"></i>
+        </button>
+    </div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <input type="checkbox" id="selectAll" />
+            </th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Last login time</th>
+            <th>Registration time</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            <tr>
+                <td>
+                    <input type="checkbox" class="checkbox-item" asp-for="@Model[i].IsChecked" />
+                    <input type="hidden" asp-for="@Model[i].Id" />
+                </td>
+                <td>@Model[i].Name</td>
+                <td>@Model[i].Email</td>
+                    <td>@Model[i].LastLoginTime.ToString("HH:MM dd MMMM yyyy")</td>
+                    <td>@Model[i].RegistrationTime.ToString("HH:MM dd MMMM yyyy")</td>
+                <td>@Model[i].Status.ToString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    document.getElementById('selectAll').addEventListener('change', function () {
+        var checkboxes = document.getElementsByClassName('checkbox-item');
+        for (var i = 0; i < checkboxes.length; i++) {
+            checkboxes[i].checked = this.checked;
+        }
+    });
+</script>
+} 
+
+ *@
+
+@model List<ViewModel>
+
+@{
+    ViewData["Title"] = "Management";
+}
+
+@using (Html.BeginForm())
+{
+    <div>
+        <button type="submit" class="btn btn-dark" formaction="@Url.Action("Block", "Account")">
+            Block <i class="fa fa-lock" style="font-size: 16px; margin-left: 5px;"></i>
+        </button>
+        <button type="submit" class="btn btn-secondary" formaction="@Url.Action("Unblock", "Account")">
+             <i class="fa fa-unlock" style="font-size: 16px; margin-left: 0px;"></i>
+        </button>
+        <button type="submit" class="btn btn-danger" formaction="@Url.Action("Delete", "Account")">
+             <i class="fa fa-trash" style="font-size: 16px; margin-left: 0px;"></i>
+        </button>
+    </div>
+
+    <table class="table">
+        <!-- ... (your table header) ... -->
+        <thead>
+            <tr>
+                <th>
+                    <input type="checkbox" id="selectAll" />
+                </th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Last login time</th>
+                <th>Registration time</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <input type="hidden" name="models[@i].Id" value="@Model[i].Id" />
+                        <input type="checkbox" class="checkbox-item" name="models[@i].IsChecked" value="true" />
+                    </td>
+                    <td>@Model[i].Name</td>
+                    <td>@Model[i].Email</td>
+                    <td>@Model[i].LastLoginTime.ToString("HH:mm dd MMMM yyyy")</td>
+                    <td>@Model[i].RegistrationTime.ToString("HH:mm dd MMMM yyyy")</td>
+                    <td>@Model[i].Status.ToString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <script>
+        function updateFormAction(action) {
+            document.getElementById('myForm').action = action;
+            document.getElementById('myForm').submit();
+        }
+
+        document.getElementById('selectAll').addEventListener('change', function () {
+            var checkboxes = document.getElementsByClassName('checkbox-item');
+            for (var i = 0; i < checkboxes.length; i++) {
+                checkboxes[i].checked = this.checked;
+            }
+        });
+    </script>
+}
