@@ -135,3 +135,4 @@ C:\Users\Abbos\source\repos\AdminPanel\AdminPanel\obj\Debug\net8.0\refint\AdminP
 C:\Users\Abbos\source\repos\AdminPanel\AdminPanel\obj\Debug\net8.0\AdminPanel.pdb
 C:\Users\Abbos\source\repos\AdminPanel\AdminPanel\obj\Debug\net8.0\AdminPanel.genruntimeconfig.cache
 C:\Users\Abbos\source\repos\AdminPanel\AdminPanel\obj\Debug\net8.0\ref\AdminPanel.dll
+C:\Users\Abbos\source\repos\AdminPanel\AdminPanel\obj\Debug\net8.0\AdminPanel.sourcelink.json
